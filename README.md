@@ -49,7 +49,7 @@ The customer dashboard aims to provide an overview of customer data, trends and 
 #### **Data Filters**
 - Allow users to filter data by product information like category and subcategory and by location information like region, state and city.
 
-## 📌Color Reference
+## 🎨 Color Reference
 
 | Color           | Hex Code  |
 |---------------|----------|
@@ -58,7 +58,7 @@ The customer dashboard aims to provide an overview of customer data, trends and 
 | Blue  | `#1DA2D0` |
 | Orange  | `#FF5500` |
 
-## 📌Dashboard Preview
+## 👀 Dashboard Preview
 #### Sales Dashboard
 ![Sales](https://github.com/SandipGit04/Sales-Customers-Dashboard/blob/main/Dashboard%20Images/Sales%20Dashboard.png)
 #### Customer Dashboard
@@ -71,7 +71,7 @@ The customer dashboard aims to provide an overview of customer data, trends and 
 - Select **specific chart positions** to filter the dashboard accordingly.
 ---
 
-## 📌 Contact & Support
+## 📱 Contact & Support
 For questions or support, reach out via:
 
 **📩 : kundusandip004@gmail.com**  
