@@ -74,6 +74,6 @@ The customer dashboard aims to provide an overview of customer data, trends and 
 ## 📌 Contact & Support
 For questions or support, reach out via:
 
-📩 : kundusandip004@gmail.com 
-**in** : https://www.linkedin.com/in/sandipin04/ 
+📩 : kundusandip004@gmail.com
+**in** : https://www.linkedin.com/in/sandipin04/
 𝕏 : https://x.com/SandipX04
