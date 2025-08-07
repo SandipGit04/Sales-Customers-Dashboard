@@ -60,10 +60,10 @@ The customer dashboard aims to provide an overview of customer data, trends and 
 
 ## 👀 Dashboard Preview
 #### Sales Dashboard
-![Sales](https://github.com/SandipGit04/Sales-Customers-Dashboard/blob/main/Dashboard%20Images/Sales%20Dashboard.png)
+![Sales](https://raw.githubusercontent.com/SandipGit04/Sales-Customers-Dashboard/refs/heads/main/Dashboard%20Images/Sales%20Dashboard.png)
 #### Customer Dashboard
-![Customer](https://github.com/SandipGit04/Sales-Customers-Dashboard/blob/main/Dashboard%20Images/Customer%20Dashboard.png)
-#### **Dashboard Link:** https://public.tableau.com/app/profile/sandip.kundu5209/viz/SalesCustomersDashboard_17381610483660/SalesDashboard
+![Customer](https://raw.githubusercontent.com/SandipGit04/Sales-Customers-Dashboard/refs/heads/main/Dashboard%20Images/Customer%20Dashboard.png)
+#### **nteract With The Dashboard Here:** [Sales & Customer Dashboard](https://public.tableau.com/app/profile/sandip.kundu5209/viz/SalesCustomersDashboard_17381610483660/SalesDashboard)
 
 ## 📌 How to Use the Dashboard
 - Navigate between **Sales and Customer Dashboard**.
@@ -74,6 +74,7 @@ The customer dashboard aims to provide an overview of customer data, trends and 
 ## 📱 Contact & Support
 For questions or support, reach out via:
 
-**📩 : kundusandip004@gmail.com**  
-**in : https://www.linkedin.com/in/sandipin04/**  
-**𝕏 : https://x.com/SandipX04**  
+📩 Email: [kundusandip004@gmail.com](mailto:kundusandip004@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/sandipin04](https://www.linkedin.com/in/sandipin04/)  
+𝕏 Twitter (X): [@SandipX04](https://x.com/SandipX04)
+
