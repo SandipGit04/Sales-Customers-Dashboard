@@ -32,7 +32,7 @@ The customer dashboard aims to provide an overview of customer data, trends and 
 #### **Key Requirements**
 ##### ◽**KPI Overview**
 - Display a summary of total number of customers , total sales per customer and total number of orders for the current year and the previous year.
-##### ◽**Customer Trends**
+##### ◽ **Customer Trends**
 - Present the data for each KPI on a monthly basis for both the current year and the previous year.
 - Identify months with highest and lowest sales and make them easy to recognize.
 ##### ◽**Customer Distribution by Number of Orders**
