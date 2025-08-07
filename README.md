@@ -30,14 +30,14 @@ The purpose of sales dashboard is to present an overview of the sales metrics an
 #### **Dashboard Purpose**
 The customer dashboard aims to provide an overview of customer data, trends and behaviors. It will help marketing teams and management to understand customer segments and improve customer satisfaction.
 #### **Key Requirements**
-##### **- KPI Overview**
+##### **◽KPI Overview**
 - Display a summary of total number of customers , total sales per customer and total number of orders for the current year and the previous year.
-##### **- Customer Trends**
+##### **◽Customer Trends**
 - Present the data for each KPI on a monthly basis for both the current year and the previous year.
 - Identify months with highest and lowest sales and make them easy to recognize.
-##### **- Customer Distribution by Number of Orders**
+##### **◽Customer Distribution by Number of Orders**
 - Represent the distribution of customers based on the number of orders they have placed to provide insights into customer behavior, loyalty and engagement.
-##### **- Top 10 Customers By Profit**
+##### **◽Top 10 Customers By Profit**
 - Present the top 10 customers who have generated the highest profits for the company.
 - Show additional information like rank, number of orders, current sales, current profit and the last order date.
 
@@ -63,7 +63,7 @@ The customer dashboard aims to provide an overview of customer data, trends and 
 ![Sales](https://raw.githubusercontent.com/SandipGit04/Sales-Customers-Dashboard/refs/heads/main/Dashboard%20Images/Sales%20Dashboard.png)
 #### Customer Dashboard
 ![Customer](https://raw.githubusercontent.com/SandipGit04/Sales-Customers-Dashboard/refs/heads/main/Dashboard%20Images/Customer%20Dashboard.png)
-#### **nteract With The Dashboard Here:** [Sales & Customer Dashboard](https://public.tableau.com/app/profile/sandip.kundu5209/viz/SalesCustomersDashboard_17381610483660/SalesDashboard)
+#### **Interact With The Dashboard Here:** [Sales & Customer Dashboard](https://public.tableau.com/app/profile/sandip.kundu5209/viz/SalesCustomersDashboard_17381610483660/SalesDashboard)
 
 ## 📌 How to Use the Dashboard
 - Navigate between **Sales and Customer Dashboard**.
