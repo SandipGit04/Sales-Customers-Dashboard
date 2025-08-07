@@ -63,7 +63,7 @@ The customer dashboard aims to provide an overview of customer data, trends and 
 ![Sales](https://raw.githubusercontent.com/SandipGit04/Sales-Customers-Dashboard/refs/heads/main/Dashboard%20Images/Sales%20Dashboard.png)
 #### Customer Dashboard
 ![Customer](https://raw.githubusercontent.com/SandipGit04/Sales-Customers-Dashboard/refs/heads/main/Dashboard%20Images/Customer%20Dashboard.png)
-#### **Interact With The Dashboard Here:** [Sales & Customer Dashboard](https://public.tableau.com/app/profile/sandip.kundu5209/viz/SalesCustomersDashboard_17381610483660/SalesDashboard)
+#### 🔗 **Interact With The Dashboard Here:** [Sales & Customer Dashboard](https://public.tableau.com/app/profile/sandip.kundu5209/viz/SalesCustomersDashboard_17381610483660/SalesDashboard)
 
 ## 📌 How to Use the Dashboard
 - Navigate between **Sales and Customer Dashboard**.
